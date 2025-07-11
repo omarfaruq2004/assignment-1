@@ -214,3 +214,52 @@ div ul li{
     margin-bottom: 20px;
     margin-top: 20px;
 }
+
+.footer-colamn{
+    font-size: 97px;
+    font-weight: bold;
+    color: #000000;
+    padding: 200px 612px 200px 0px;
+
+    
+}
+.fotter-container{
+        margin: 137px 150px;
+    width: 1140;
+    display: flex;
+    align-items: center;
+
+}
+/* .footer-colamn-second{
+    padding: 71px 0px 71px 643px;
+} */
+footer input[type="text"]{
+    height: 70px;
+border-radius: 10px;
+background-color: #D6DDED;
+display: block;
+padding: 20px 271px 20px 32px;
+font-size: 20px;
+font-weight: 400;
+
+
+}
+footer input[type="email"]{
+    height: 70px;
+border-radius: 10px;
+background-color: #D6DDED;
+display: block;
+padding: 20px 271px 20px 32px;
+font-size: 20px;
+font-weight: 400;
+
+
+}
+.button{
+    margin: 10px;
+}
+
+.na{
+    font-size: 18px;
+    font-weight: 600;
+}
