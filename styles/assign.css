@@ -262,4 +262,28 @@ font-weight: 400;
 .na{
     font-size: 18px;
     font-weight: 600;
+}  
+.footer-logo{
+    font-style: 800px;
+    color: rgba(78, 71, 255, 1);
+    font-weight: bolderss;
+    text-align: center ;
+
+}
+.to{
+    color: #8987A1;
+    display: flex;
+    align-items: center;
+        justify-content: space-around;
+
+}
+nav li{
+    list-style: none;
+    align-items: center;
+}
+.total-footer{
+    width: 1440;
+    padding: 104px 455px 103px 455px;
+            background-color: rgba(224, 193, 193, 0.5);
+
 }
