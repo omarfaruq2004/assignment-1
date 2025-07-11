@@ -187,3 +187,30 @@ div ul li{
     margin: 137px 150px;
     width: 1140;
 }
+.image{
+    border-radius: 48px;
+}
+.read{
+    color: #000000;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+}
+.template{
+   color: rgba(0, 0, 0, 0.5);
+   margin-top: 20px; 
+
+}
+.focus-better{
+    text-align: center;
+    margin: 137px 150px 92.23px 150px;
+    border-radius: 14px;
+    padding: 71px 150px;
+        background-color: rgba(224, 193, 193, 0.5);
+
+}
+.marg{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
